@@ -1,0 +1,5 @@
+#message{display:none;}
+#progressBar{width:420px;height:22px;border:1px solid #111;background-color:#292929;display:none;}
+#progressBar div{height:100%;color:#fff;text-align:right;line-height:22px;width:0;background-color:#0099ff;}
+.bulk-progress{background:#464646;border:1px solid #111;border-radius:1px;overflow:hidden;box-shadow:0 0 3px #333;}
+.bulk-progress div{background-color:#21759b;background-image:-moz-linear-gradient(center top , #2a95c5, #21759b);border-color:#21759b #21759b #1e6a8d;box-shadow:0 1px 0 rgba(120, 200, 230, 0.5) inset;color:#ffffff;text-decoration:none;text-shadow:0 1px 0 rgba(0, 0, 0, 0.1);}
